@@ -1,0 +1,4 @@
+This branch is the backup of the what is deployed on eXo platform forge http://ci.exoplatform.org
+
+19th oct 2011 :
+* It is based on 1.433 as we cannot go upper because of https://issues.jenkins-ci.org/browse/JENKINS-11318
